@@ -1,0 +1,12 @@
+.bg{
+    background-image: linear-gradient(to right, #0276ce, #02bee3);
+   
+}
+
+.bg-1{
+    z-index: 1;
+}
+.text{
+    color: #0276ce;
+    font-weight: bold;
+}
